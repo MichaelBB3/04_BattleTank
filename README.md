@@ -1,2 +1,2 @@
-# 04_BattleTank
+# BattleTank
 Section 4 Game from Unreal Beginner Course
